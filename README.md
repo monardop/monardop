@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monardop
 - 👀 I’m interested in improve my skills
-- 🌱 I’m currently learning Python
+- 🌱 Studying Python, JS and Java. You'll also find projects made in C.
 - 📫 How to reach me send me a DM!
 
 <!---
