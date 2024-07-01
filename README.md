@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @monardop
 - 👀 I’m interested in improve my skills
 - 🌱 Studying Python, JS and Java. You'll also find projects made in C.
-- 📫 How to reach me send me a DM!
+- 📫 How to reach me send me a DM or find me on Instagram!
 
 <!---
 monardop/monardop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
