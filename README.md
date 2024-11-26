@@ -12,10 +12,8 @@
 - Mentoring and teaching programming, which has honed my ability to break down complex topics into digestible pieces.
 
 ⚙️ Currently, I’m working on:
-- Enhancing my knowledge of **databases** with **PostgreSQL** and **MS SQL Server**.
+- Enhancing my knowledge of **databases** with **MongoDB** and **MS SQL Server**.
 - Diving deeper into **frontend development** and strengthening my skills with **React** and **Astro**.
-
-Feel free to explore my repositories and see how I turn my passion for **tech** into solutions that solve real-world problems!
 
 ## Skills
 ### 👨‍💻 Programming languages
