@@ -2,18 +2,9 @@
 
 🎓 I'm not just a **Computer Engineering Student**, I'm a lifelong learner who loves exploring how **technology**, **mathematics**, and **education** intersect. My goal is to not only develop software but also help others along their learning journey.
 
-💻 My journey has taken me through various programming languages, including **Python**, **C**, and **Java**, as well as **UML modeling** and **database management**. As I work towards becoming a well-rounded software developer, I'm continuously exploring how **AI** and **machine learning** can impact our world. 
+💻 My journey has taken me through various programming languages, including **Python**, **C**, and **JavaScript**, as well as **UML modeling** and **database management**. As I work towards becoming a well-rounded software developer, I'm continuously exploring how **AI** and **machine learning** can impact our world. 
 
 👨‍🏫 **Mentor and teacher:** I have experience teaching programming to beginners, breaking down complex concepts and making them accessible. Whether it's helping others understand the basics of coding or working on structured educational content, I believe in the power of clear communication.
-
-🔧 Some of my key areas of expertise include:
-- Data-driven problem solving with SQL, Python, and JavaScript.
-- Creating accessible and user-friendly interfaces, thanks to my background in **multimedia design**.
-- Mentoring and teaching programming, which has honed my ability to break down complex topics into digestible pieces.
-
-⚙️ Currently, I’m working on:
-- Enhancing my knowledge of **databases** with **MongoDB** and **MS SQL Server**.
-- Diving deeper into **frontend development** and strengthening my skills with **React** and **Astro**.
 
 <br clear="both">
 
